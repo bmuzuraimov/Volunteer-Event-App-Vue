@@ -1,0 +1,31 @@
+.carousel-inner img {
+  height: 100%;
+  object-fit: cover;
+}
+.path{
+  display: inline-flex !important;
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+  background: #E9ECEF;
+  border-radius: 5px;
+  padding: 10px 10px;
+}
+
+.disabled-link {
+  cursor: default;
+  pointer-events: none;
+  color: #6C757D;
+}
+
+/* Text Styles */
+.text-clamp-4 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.event-details-bottom{
+  border: 1px solid #DFDFDF;
+}
