@@ -1,0 +1,1 @@
+![Diagram of the frontend flow](images/diagram.png)
